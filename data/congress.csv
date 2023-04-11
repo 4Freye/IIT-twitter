@@ -1,0 +1,542 @@
+,LegislativeBody,Name ,Link,State ,Party ,account
+0,senate,"Baldwin, Tammy",https://twitter.com/SenatorBaldwin,WI,D,SenatorBaldwin
+1,senate,"Barrasso, John",https://twitter.com/SenJohnBarrasso,WY,R,SenJohnBarrasso
+2,senate,"Bennet, Michael F.",https://twitter.com/SenatorBennet,CO,D,SenatorBennet
+3,senate,"Blackburn, Marsha",https://twitter.com/MarshaBlackburn,TN,R,MarshaBlackburn
+4,senate,"Blumenthal, Richard",https://twitter.com/SenBlumenthal,CT,D,SenBlumenthal
+5,senate,"Booker, Cory ",https://twitter.com/CoryBooker,NJ,D,CoryBooker
+6,senate,"Boozman, John",https://twitter.com/JohnBoozman,AR,R,JohnBoozman
+7,senate,"Braun, Mike",https://twitter.com/SenatorBraun,IN,R,SenatorBraun
+8,senate,"Britt, Katie ",https://twitter.com/SenKatieBritt,AL,R,SenKatieBritt
+9,senate,"Brown, Sherrod",https://twitter.com/SenSherrodBrown,OH,D,SenSherrodBrown
+10,senate,"Budd, Ted",https://twitter.com/SenTedBuddNC,NC,R,SenTedBuddNC
+11,senate,"Cantwell, Maria",https://twitter.com/SenatorCantwell,WA,D,SenatorCantwell
+12,senate,"Capito, Shelley Moore",https://twitter.com/SenCapito,WV,R,SenCapito
+13,senate,"Cardin, Benjamin",https://twitter.com/SenatorCardin,MD,D,SenatorCardin
+14,senate,"Carper, Thomas ",https://twitter.com/SenatorCarper,DE,D,SenatorCarper
+15,senate,"Casey, Robert Jr.",https://twitter.com/SenBobCasey,PA,D,SenBobCasey
+16,senate,"Cassidy, Bill",https://twitter.com/SenBillCassidy,LA,R,SenBillCassidy
+17,senate,"Collins, Susan ",https://twitter.com/SenatorCollins,ME,R,SenatorCollins
+18,senate,"Coons, Christopher ",https://twitter.com/ChrisCoons,DE,D,ChrisCoons
+19,senate,"Cornyn, John",https://twitter.com/JohnCornyn,TX,R,JohnCornyn
+20,senate,"Cortez Masto, Catherine",https://twitter.com/SenCortezMasto,NV,D,SenCortezMasto
+21,senate,"Cotton, Tom",https://twitter.com/SenTomCotton,AR,R,SenTomCotton
+22,senate,"Cramer, Kevin",https://twitter.com/SenKevinCramer,ND,R,SenKevinCramer
+23,senate,"Crapo, Mike",https://twitter.com/MikeCrapo,ID,R,MikeCrapo
+24,senate,"Cruz, Ted",https://twitter.com/SenTedCruz,TX,R,SenTedCruz
+25,senate,"Daines, Steve",https://twitter.com/SteveDaines,MT,R,SteveDaines
+26,senate,"Duckworth, Tammy",https://twitter.com/SenDuckworth,IL,D,SenDuckworth
+27,senate,"Durbin, Richard ",https://twitter.com/SenatorDurbin,IL,D,SenatorDurbin
+28,senate,"Ernst, Joni",https://twitter.com/SenJoniErnst,IA,R,SenJoniErnst
+29,senate,"Feinstein, Dianne",https://twitter.com/SenFeinstein,CA,D,SenFeinstein
+30,senate,"Fetterman, John",https://twitter.com/SenFettermanPA,PA,D,SenFettermanPA
+31,senate,"Fischer, Deb",https://twitter.com/SenatorFischer,NE,R,SenatorFischer
+32,senate,"Gillibrand, Kirsten ",https://twitter.com/SenGillibrand,NY,D,SenGillibrand
+33,senate,"Graham, Lindsey",https://twitter.com/LindseyGrahamSC,SC,R,LindseyGrahamSC
+34,senate,"Grassley, Chuck",https://twitter.com/ChuckGrassley,IA,R,ChuckGrassley
+35,senate,"Hagerty, Bill",https://twitter.com/SenatorHagerty,TN,R,SenatorHagerty
+36,senate,"Hassan, Maggie",https://twitter.com/SenatorHassan,NH,D,SenatorHassan
+37,senate,"Hawley, Josh",https://twitter.com/HawleyMO,MO,R,HawleyMO
+38,senate,"Heinrich, Martin",https://twitter.com/MartinHeinrich,NM,D,MartinHeinrich
+39,senate,"Hickenlooper, John ",https://twitter.com/SenatorHick,CO,D,SenatorHick
+40,senate,"Hirono, Mazie ",https://twitter.com/maziehirono,HI,D,maziehirono
+41,senate,"Hoeven, John",https://twitter.com/SenJohnHoeven,ND,R,SenJohnHoeven
+42,senate,"Hyde-Smith, Cindy",https://twitter.com/SenHydeSmith,MS,R,SenHydeSmith
+43,senate,"Johnson, Ron",https://twitter.com/SenRonJohnson,WI,R,SenRonJohnson
+44,senate,"Kaine, Tim",https://twitter.com/timkaine,VA,D,timkaine
+45,senate,"Kelly, Mark",https://twitter.com/SenMarkKelly,AZ,D,SenMarkKelly
+46,senate,"Kennedy, John",https://twitter.com/SenJohnKennedy,LA,R,SenJohnKennedy
+47,senate,"King, Angus ",https://twitter.com/SenAngusKing,ME,I,SenAngusKing
+48,senate,"Klobuchar, Amy",https://twitter.com/SenAmyKlobuchar,MN,D,SenAmyKlobuchar
+49,senate,"Lankford, James",https://twitter.com/SenatorLankford,OK,R,SenatorLankford
+50,senate,"Lee, Mike",https://twitter.com/SenMikeLee,UT,R,SenMikeLee
+51,senate,"Luján, Ben Ray",https://twitter.com/SenatorLujan,NM,D,SenatorLujan
+52,senate,"Lummis, Cynthia ",https://twitter.com/SenLummis,WY,R,SenLummis
+53,senate,"Manchin, Joe",https://twitter.com/Sen_JoeManchin,WV,D,Sen_JoeManchin
+54,senate,"Markey, Edward ",https://twitter.com/SenMarkey,MA,D,SenMarkey
+55,senate,"Marshall, Roger",https://twitter.com/SenatorMarshall,KS,R,SenatorMarshall
+56,senate,"McConnell, Mitch",https://twitter.com/senatemajldr,KY,R,senatemajldr
+57,senate,"Menendez, Bob",https://twitter.com/SenatorMenendez,NJ,D,SenatorMenendez
+58,senate,"Merkley, Jeff",https://twitter.com/SenJeffMerkley,OR,D,SenJeffMerkley
+59,senate,"Moran, Jerry",https://twitter.com/JerryMoran,KS,R,JerryMoran
+60,senate,"Mullin, Markwayne",https://twitter.com/SenMullin,OK,R,SenMullin
+61,senate,"Murkowski, Lisa",https://twitter.com/lisamurkowski,AK,R,lisamurkowski
+62,senate,"Murphy, Christopher",https://twitter.com/ChrisMurphyCT,CT,D,ChrisMurphyCT
+63,senate,"Murray, Patty",https://twitter.com/PattyMurray,WA,D,PattyMurray
+64,senate,"Ossoff, Jon",https://twitter.com/ossoff,GA,D,ossoff
+65,senate,"Padilla, Alex",https://twitter.com/SenAlexPadilla,CA,D,SenAlexPadilla
+66,senate,"Paul, Rand",https://twitter.com/RandPaul,KY,R,RandPaul
+67,senate,"Peters, Gary ",https://twitter.com/SenGaryPeters,MI,D,SenGaryPeters
+68,senate,"Reed, Jack",https://twitter.com/SenJackReed,RI,D,SenJackReed
+69,senate,"Ricketts, Pete",https://twitter.com/SenatorRicketts,NE,R,SenatorRicketts
+70,senate,"Risch, James ",https://twitter.com/SenatorRisch,ID,R,SenatorRisch
+71,senate,"Romney, Mitt",https://twitter.com/SenatorRomney,UT,R,SenatorRomney
+72,senate,"Rosen, Jacky",https://twitter.com/SenJackyRosen,NV,D,SenJackyRosen
+73,senate,"Rounds, Mike",https://twitter.com/SenatorRounds,SD,R,SenatorRounds
+74,senate,"Rubio, Marco",https://twitter.com/marcorubio,FL,R,marcorubio
+75,senate,"Sanders, Bernard",https://twitter.com/SenSanders,VT,I,SenSanders
+76,senate,"Sasse, Ben",https://twitter.com/SenSasse,NE,R,SenSasse
+77,senate,"Schatz, Brian",https://twitter.com/SenBrianSchatz,HI,D,SenBrianSchatz
+78,senate,"Schmitt, Eric",https://twitter.com/SenEricSchmitt,MO,R,SenEricSchmitt
+79,senate,"Schumer, Charles ",https://twitter.com/SenSchumer,NY,D,SenSchumer
+80,senate,"Scott, Rick",https://twitter.com/SenRickScott,FL,R,SenRickScott
+81,senate,"Scott, Tim",https://twitter.com/SenatorTimScott,SC,R,SenatorTimScott
+82,senate,"Shaheen, Jeanne",https://twitter.com/SenatorShaheen,NH,D,SenatorShaheen
+83,senate,"Sinema, Kyrsten",https://twitter.com/SenatorSinema,AZ,D,SenatorSinema
+84,senate,"Smith, Tina",https://twitter.com/SenTinaSmith,MN,D,SenTinaSmith
+85,senate,"Stabenow, Debbie",https://twitter.com/SenStabenow,MI,D,SenStabenow
+86,senate,"Sullivan, Dan",https://twitter.com/SenDanSullivan,AK,R,SenDanSullivan
+87,senate,"Tester, Jon",https://twitter.com/SenatorTester,MT,D,SenatorTester
+88,senate,"Thune, John",https://twitter.com/SenJohnThune,SD,R,SenJohnThune
+89,senate,"Tillis, Thom",https://twitter.com/SenThomTillis,NC,R,SenThomTillis
+90,senate,"Tuberville, Tommy",https://twitter.com/SenTuberville,AL,R,SenTuberville
+91,senate,"Van Hollen, Chris",https://twitter.com/ChrisVanHollen,MD,D,ChrisVanHollen
+92,senate,"Vance, J.D. ",https://twitter.com/SenVancePress,OH,R,SenVancePress
+93,senate,"Warner, Mark ",https://twitter.com/MarkWarner,VA,D,MarkWarner
+94,senate,"Warnock, Raphael ",https://twitter.com/SenatorWarnock,GA,D,SenatorWarnock
+95,senate,"Warren, Elizabeth",https://twitter.com/SenWarren,MA,D,SenWarren
+96,senate,"Welch, Peter",https://twitter.com/PeterWelch,VT,D,PeterWelch
+97,senate,"Whitehouse, Sheldon",https://twitter.com/SenWhitehouse,RI,D,SenWhitehouse
+98,senate,"Wicker, Roger ",https://twitter.com/SenatorWicker,MS,R,SenatorWicker
+99,senate,"Wyden, Ron",https://twitter.com/RonWyden,OR,D,RonWyden
+100,senate,"Young, Todd",https://twitter.com/SenToddYoung,IN,R,SenToddYoung
+101,house,"Adams, Alma",https://twitter.com/RepAdams,NC,D,RepAdams
+102,house,"Aderholt, Robert",https://twitter.com/Robert_Aderholt,AL,R,Robert_Aderholt
+103,house,"Aguilar, Pete",https://twitter.com/RepPeteAguilar,CA,D,RepPeteAguilar
+104,house,"Alford, Mark",https://twitter.com/RepMarkAlford,MO,R,RepMarkAlford
+105,house,"Allen, Rick",https://twitter.com/RepRickAllen,GA,R,RepRickAllen
+106,house,"Allred, Colin",https://twitter.com/RepColinAllred,TX,D,RepColinAllred
+107,house,"Amodei, Mark",https://twitter.com/MarkAmodeiNV2,NV,R,MarkAmodeiNV2
+108,house,"Armstrong, Kelly",https://twitter.com/RepArmstrongND,ND,R,RepArmstrongND
+109,house,"Arrington, Jodey",https://twitter.com/RepArrington,TX,R,RepArrington
+110,house,"Auchincloss, Jake",https://twitter.com/RepAuchincloss,MA,D,RepAuchincloss
+111,house,"Babin, Brian",https://twitter.com/RepBrianBabin,TX,R,RepBrianBabin
+112,house,"Bacon, Don",https://twitter.com/RepDonBacon,NE,R,RepDonBacon
+113,house,"Baird, Jim",https://twitter.com/RepJimBaird,IN,R,RepJimBaird
+114,house,"Balderson, Troy",https://twitter.com/RepBalderson,OH,R,RepBalderson
+115,house,"Balint, Becca",https://twitter.com/RepBeccaB,VT,D,RepBeccaB
+116,house,"Banks, Jim",https://twitter.com/RepJimBanks,IN,R,RepJimBanks
+117,house,"Barr, Andy",https://twitter.com/RepAndyBarr,KY,R,RepAndyBarr
+118,house,"Barragán, Nanette",https://twitter.com/RepBarragan,CA,D,RepBarragan
+119,house,"Bean, Aaron",https://twitter.com/RepAaronBean,FL,R,RepAaronBean
+120,house,"Beatty, Joyce",https://twitter.com/RepBeatty,OH,D,RepBeatty
+121,house,"Bentz, Cliff",https://twitter.com/RepBentz,OR,R,RepBentz
+122,house,"Bera, Ami",https://twitter.com/RepBera,CA,D,RepBera
+123,house,"Bergman, Jack",https://twitter.com/RepJackBergman,MI,R,RepJackBergman
+124,house,"Beyer, Don",https://twitter.com/RepDonBeyer,VA,D,RepDonBeyer
+125,house,"Bice, Stephanie",https://twitter.com/RepBice,OK,R,RepBice
+126,house,"Biggs, Andy",https://twitter.com/RepAndyBiggsAZ,AZ,R,RepAndyBiggsAZ
+127,house,"Bilirakis, Gus ",https://twitter.com/RepGusBilirakis,FL,R,RepGusBilirakis
+128,house,"Bishop, Dan",https://twitter.com/RepDanBishop,NC,R,RepDanBishop
+129,house,"Bishop Jr., Sanford ",https://twitter.com/SanfordBishop,GA,D,SanfordBishop
+130,house,"Blumenauer, Earl",https://twitter.com/repblumenauer,OR,D,repblumenauer
+131,house,"Blunt Rochester, Lisa",https://twitter.com/RepLBR,DE,D,RepLBR
+132,house,"Boebert, Lauren",https://twitter.com/RepBoebert,CO,R,RepBoebert
+133,house,"Bonamici, Suzanne",https://twitter.com/RepBonamici,OR,D,RepBonamici
+134,house,"Bost, Mike",https://twitter.com/RepBost,IL,R,RepBost
+135,house,"Bowman, Jamaal",https://twitter.com/RepBowman,NY,D,RepBowman
+136,house,"Boyle, Brendan",https://twitter.com/CongBoyle,PA,D,CongBoyle
+137,house,"Brecheen, Josh",https://twitter.com/RepBrecheen,OK,R,RepBrecheen
+138,house,"Brown, Shontel",https://twitter.com/RepShontelBrown,OH,D,RepShontelBrown
+139,house,"Brownley, Julia",https://twitter.com/RepBrownley,CA,D,RepBrownley
+140,house,"Buchanan, Vern",https://twitter.com/VernBuchanan,FL,R,VernBuchanan
+141,house,"Buck, Ken",https://twitter.com/RepKenBuck,CO,R,RepKenBuck
+142,house,"Bucshon, Larry",https://twitter.com/RepLarryBucshon,IN,R,RepLarryBucshon
+143,house,"Budzinski, Nikki",https://twitter.com/RepNikkiB,IL,D,RepNikkiB
+144,house,"Burchett, Tim",https://twitter.com/RepTimBurchett,TN,R,RepTimBurchett
+145,house,"Burgess, Michael",https://twitter.com/michaelcburgess,TX,R,michaelcburgess
+146,house,"Burlison, Eric",https://twitter.com/RepEricBurlison,MO,R,RepEricBurlison
+147,house,"Bush, Cori",https://twitter.com/RepCori,MO,D,RepCori
+148,house,"Calvert, Ken",https://twitter.com/KenCalvert,CA,R,KenCalvert
+149,house,"Cammack, Kat",https://twitter.com/RepKatCammack,FL,R,RepKatCammack
+150,house,"Caraveo, Yadira",https://twitter.com/RepCaraveoMD,CO,D,RepCaraveoMD
+151,house,"Carbajal, Salud",https://twitter.com/RepCarbajal,CA,D,RepCarbajal
+152,house,"Cardenas, Tony",https://twitter.com/RepCardenas,CA,D,RepCardenas
+153,house,"Carey, Mike",https://twitter.com/RepMikeCarey,OH,R,RepMikeCarey
+154,house,"Carl, Jerry ",https://twitter.com/RepJerryCarl,AL,R,RepJerryCarl
+155,house,"Carson, André",https://twitter.com/RepAndreCarson,IN,D,RepAndreCarson
+156,house,"Carter, Earl ""Buddy""",https://twitter.com/RepBuddyCarter,GA,R,RepBuddyCarter
+157,house,"Carter, John",https://twitter.com/JudgeCarter,TX,R,JudgeCarter
+158,house,"Carter, Troy",https://twitter.com/RepTroyCarter,LA,D,RepTroyCarter
+159,house,"Cartwright, Matt",https://twitter.com/RepCartwright,PA,D,RepCartwright
+160,house,"Casar, Greg",https://twitter.com/RepCasar,TX,D,RepCasar
+161,house,"Case, Ed",https://twitter.com/RepEdCase,HI,D,RepEdCase
+162,house,"Casten, Sean",https://twitter.com/RepCasten,IL,D,RepCasten
+163,house,"Castor, Kathy",https://twitter.com/USRepKCastor,FL,D,USRepKCastor
+164,house,"Castro, Joaquin",https://twitter.com/JoaquinCastrotx,TX,D,JoaquinCastrotx
+165,house,"Chavez-DeRemer, Lori",https://twitter.com/RepLCD,OR,R,RepLCD
+166,house,"Cherfilus-McCormick, Sheila",https://twitter.com/CongresswomanSC,FL,D,CongresswomanSC
+167,house,"Chu, Judy",https://twitter.com/RepJudyChu,CA,D,RepJudyChu
+168,house,"Cicilline, David",https://twitter.com/RepCicilline,RI,D,RepCicilline
+169,house,"Ciscomani, Juan",https://twitter.com/RepCiscomani,AZ,R,RepCiscomani
+170,house,"Clark, Katherine",https://twitter.com/RepKClark,MA,D,RepKClark
+171,house,"Clarke, Yvette ",https://twitter.com/RepYvetteClarke,NY,D,RepYvetteClarke
+172,house,"Cleaver, Emanuel",https://twitter.com/repcleaver,MO,D,repcleaver
+173,house,"Cline, Ben",https://twitter.com/RepBenCline,VA,R,RepBenCline
+174,house,"Cloud, Michael",https://twitter.com/RepCloudTX,TX,R,RepCloudTX
+175,house,"Clyburn, James ",https://twitter.com/WhipClyburn,SC,D,WhipClyburn
+176,house,"Clyde, Andrew ",https://twitter.com/Rep_Clyde ,GA,R,Rep_Clyde 
+177,house,"Cohen, Steve",https://twitter.com/RepCohen,TN,D,RepCohen
+178,house,"Cole, Tom",https://twitter.com/TomColeOK04,OK,R,TomColeOK04
+179,house,"Collins, Mike",https://twitter.com/RepMikeCollins,GA,R,RepMikeCollins
+180,house,"Comer, James",https://twitter.com/RepJamesComer,KY,R,RepJamesComer
+181,house,"Connolly, Gerald E. ""Gerry""",https://twitter.com/GerryConnolly,VA,D,GerryConnolly
+182,house,"Correa, J. Luis",https://twitter.com/RepLouCorrea,CA,D,RepLouCorrea
+183,house,"Costa, Jim",https://twitter.com/RepJimCosta,CA,D,RepJimCosta
+184,house,"Courtney, Joe",https://twitter.com/RepJoeCourtney,CT,D,RepJoeCourtney
+185,house,"Craig, Angie",https://twitter.com/RepAngieCraig,MN,D,RepAngieCraig
+186,house,"Crane, Elijah",https://twitter.com/RepEliCrane,AZ,R,RepEliCrane
+187,house,"Crawford, Rick",https://twitter.com/RepRickCrawford,AR,R,RepRickCrawford
+188,house,"Crenshaw, Dan",https://twitter.com/RepDanCrenshaw,TX,R,RepDanCrenshaw
+189,house,"Crockett, Jasmine",https://twitter.com/RepJasmine,TX,D,RepJasmine
+190,house,"Crow, Jason",https://twitter.com/RepJasonCrow,CO,D,RepJasonCrow
+191,house,"Cuellar, Henry",https://twitter.com/RepCuellar,TX,D,RepCuellar
+192,house,"Curtis, John ",https://twitter.com/RepJohnCurtis,UT,R,RepJohnCurtis
+193,house,"Davids, Sharice",https://twitter.com/RepDavids,KS,D,RepDavids
+194,house,"Davidson, Warren",https://twitter.com/WarrenDavidson,OH,R,WarrenDavidson
+195,house,"Davis, Danny ",https://twitter.com/RepDannyDavis,IL,D,RepDannyDavis
+196,house,"Davis, Donald",https://twitter.com/RepDonDavis,NC,D,RepDonDavis
+197,house,"Dean, Madeleine",https://twitter.com/RepDean,PA,D,RepDean
+198,house,"DeGette, Diana",https://twitter.com/RepDianaDeGette,CO,D,RepDianaDeGette
+199,house,"De La Cruz, Monica",https://twitter.com/RepMonicaDLC,TX,R,RepMonicaDLC
+200,house,"DeLauro, Rosa ",https://twitter.com/rosadelauro,CT,D,rosadelauro
+201,house,"DelBene, Suzan",https://twitter.com/RepDelBene,WA,D,RepDelBene
+202,house,"Deluzio, Christopher",https://twitter.com/RepDeluzio,PA,D,RepDeluzio
+203,house,"DeSaulnier, Mark",https://twitter.com/RepDeSaulnier,CA,D,RepDeSaulnier
+204,house,"DesJarlais, Scott",https://twitter.com/DesJarlaisTN04,TN,R,DesJarlaisTN04
+205,house,"D'Esposito, Anthony",https://twitter.com/RepDesposito,NY,R,RepDesposito
+206,house,"Diaz-Balart, Mario",https://twitter.com/MarioDB,FL,R,MarioDB
+207,house,"Dingell, Debbie",https://twitter.com/RepDebDingell,MI,D,RepDebDingell
+208,house,"Doggett, Lloyd",https://twitter.com/RepLloydDoggett,TX,D,RepLloydDoggett
+209,house,"Donalds, Byron",https://twitter.com/RepDonaldsPress,FL,R,RepDonaldsPress
+210,house,"Duarte, John",https://twitter.com/RepDuarteCA13,CA,R,RepDuarteCA13
+211,house,"Duncan, Jeff",https://twitter.com/RepJeffDuncan,SC,R,RepJeffDuncan
+212,house,"Dunn, Neal",https://twitter.com/DrNealDunnFL2,FL,R,DrNealDunnFL2
+213,house,"Edwards, Chuck",https://twitter.com/RepEdwards,NC,R,RepEdwards
+214,house,"Ellzey, Jake",https://twitter.com/RepEllzey,TX,R,RepEllzey
+215,house,"Emmer, Tom",https://twitter.com/RepTomEmmer,MN,R,RepTomEmmer
+216,house,"Escobar, Veronica",https://twitter.com/RepEscobar,TX,D,RepEscobar
+217,house,"Eshoo, Anna ",https://twitter.com/RepAnnaEshoo,CA,D,RepAnnaEshoo
+218,house,"Espaillat, Adriano",https://twitter.com/RepEspaillat,NY,D,RepEspaillat
+219,house,"Estes, Ron",https://twitter.com/RepRonEstes,KS,R,RepRonEstes
+220,house,"Evans, Dwight",https://twitter.com/RepDwightEvans,PA,D,RepDwightEvans
+221,house,"Ezell, Mike",https://twitter.com/RepEzell,MS,R,RepEzell
+222,house,"Fallon, Pat",https://twitter.com/RepPatFallon,TX,R,RepPatFallon
+223,house,"Feenstra, Randy",https://twitter.com/RepFeenstra,IA,R,RepFeenstra
+224,house,"Ferguson, A. Drew",https://twitter.com/RepDrewFerguson,GA,R,RepDrewFerguson
+225,house,"Finstad, Brad",https://twitter.com/repfinstad,MN,R,repfinstad
+226,house,"Fischbach, Michelle",https://twitter.com/RepFischbach,MN,R,RepFischbach
+227,house,"Fitzgerald, Scott",https://twitter.com/RepFitzgerald,WI,R,RepFitzgerald
+228,house,"Fitzpatrick, Brian",https://twitter.com/RepBrianFitz,PA,R,RepBrianFitz
+229,house,"Fleischmann, Chuck",https://twitter.com/RepChuck,TN,R,RepChuck
+230,house,"Fletcher, Lizzie",https://twitter.com/RepFletcher,TX,D,RepFletcher
+231,house,"Flood, Mike",https://twitter.com/USRepMikeFlood,NE,R,USRepMikeFlood
+232,house,"Foster, Bill",https://twitter.com/RepBillFoster,IL,D,RepBillFoster
+233,house,"Foushee, Valerie",https://twitter.com/ValerieFoushee,NC,D,ValerieFoushee
+234,house,"Foxx, Virginia",https://twitter.com/virginiafoxx,NC,R,virginiafoxx
+235,house,"Frankel, Lois",https://twitter.com/RepLoisFrankel,FL,D,RepLoisFrankel
+236,house,"Franklin, C. Scott",https://twitter.com/RepFranklin,FL,R,RepFranklin
+237,house,"Frost, Maxwell",https://twitter.com/RepMaxwellFrost,FL,D,RepMaxwellFrost
+238,house,"Fry, Russell",https://twitter.com/RepRussellFry,SC,R,RepRussellFry
+239,house,"Fulcher, Russ",https://twitter.com/RepRussFulcher,ID,R,RepRussFulcher
+240,house,"Gaetz, Matt",https://twitter.com/RepMattGaetz,FL,R,RepMattGaetz
+241,house,"Gallagher, Mike",https://twitter.com/RepGallagher,WI,R,RepGallagher
+242,house,"Gallego, Ruben",https://twitter.com/RepRubenGallego,AZ,D,RepRubenGallego
+243,house,"Garamendi, John",https://twitter.com/RepGaramendi,CA,D,RepGaramendi
+244,house,"Garbarino, Andrew",https://twitter.com/RepGarbarino,NY,R,RepGarbarino
+245,house,"García, Jesús ""Chuy""",https://twitter.com/RepChuyGarcia,IL,D,RepChuyGarcia
+246,house,"Garcia, Mike",https://twitter.com/RepMikeGarcia,CA,R,RepMikeGarcia
+247,house,"Garcia, Robert",https://twitter.com/RepRobertGarcia,CA,D,RepRobertGarcia
+248,house,"Garcia, Sylvia",https://twitter.com/RepSylviaGarcia,TX,D,RepSylviaGarcia
+249,house,"Gimenez, Carlos ",https://twitter.com/RepCarlos,FL,R,RepCarlos
+250,house,"Golden, Jared",https://twitter.com/RepGolden,ME,D,RepGolden
+251,house,"Goldman, Daniel",https://twitter.com/RepDanGoldman,NY,D,RepDanGoldman
+252,house,"Gomez, Jimmy",https://twitter.com/RepJimmyGomez,CA,D,RepJimmyGomez
+253,house,"Gonzales, Tony",https://twitter.com/RepTonyGonzales,TX,R,RepTonyGonzales
+254,house,"Gonzalez, Vicente",https://twitter.com/RepGonzalez,TX,D,RepGonzalez
+255,house,"González-Cólón, Jenniffer",https://twitter.com/RepJenniffer,PR,R,RepJenniffer
+256,house,"Good, Bob",https://twitter.com/RepBobGood,VA,R,RepBobGood
+257,house,"Gooden, Lance",https://twitter.com/Lancegooden,TX,R,Lancegooden
+258,house,"Gosar, Paul ",https://twitter.com/RepGosar,AZ,R,RepGosar
+259,house,"Gottheimer, Josh",https://twitter.com/RepJoshG,NJ,D,RepJoshG
+260,house,"Granger, Kay",https://twitter.com/RepKayGranger,TX,R,RepKayGranger
+261,house,"Graves, Garret",https://twitter.com/RepGarretGraves,LA,R,RepGarretGraves
+262,house,"Graves, Sam",https://twitter.com/RepSamGraves,MO,R,RepSamGraves
+263,house,"Green, Al",https://twitter.com/RepAlGreen,TX,D,RepAlGreen
+264,house,"Green, Mark",https://twitter.com/RepMarkGreen,TN,R,RepMarkGreen
+265,house,"Greene, Marjorie Taylor",https://twitter.com/RepMTG,GA,R,RepMTG
+266,house,"Griffith, Morgan",https://twitter.com/RepMGriffith,VA,R,RepMGriffith
+267,house,"Grijalva, Raul",https://twitter.com/RepRaulGrijalva,AZ,D,RepRaulGrijalva
+268,house,"Grothman, Glenn",https://twitter.com/RepGrothman,WI,R,RepGrothman
+269,house,"Guest, Michael",https://twitter.com/RepMichaelGuest,MS,R,RepMichaelGuest
+270,house,"Guthrie, S. Brett",https://twitter.com/RepGuthrie,KY,R,RepGuthrie
+271,house,"Hageman, Harriet",https://twitter.com/RepHageman,WY,R,RepHageman
+272,house,"Harder, Josh",https://twitter.com/RepJoshHarder,CA,D,RepJoshHarder
+273,house,"Harris, Andy",https://twitter.com/RepAndyHarrisMD,MD,R,RepAndyHarrisMD
+274,house,"Harshbarger, Diana",https://twitter.com/RepHarshbarger,TN,R,RepHarshbarger
+275,house,"Hayes, Jahana",https://twitter.com/RepJahanaHayes,CT,D,RepJahanaHayes
+276,house,"Hern, Kevin",https://twitter.com/repkevinhern,OK,R,repkevinhern
+277,house,"Higgins, Brian",https://twitter.com/RepBrianHiggins,NY,D,RepBrianHiggins
+278,house,"Higgins, Clay",https://twitter.com/RepClayHiggins,LA,R,RepClayHiggins
+279,house,"Hill, J. French",https://twitter.com/RepFrenchHill,AR,R,RepFrenchHill
+280,house,"Himes, Jim",https://twitter.com/jahimes,CT,D,jahimes
+281,house,"Hinson, Ashley",https://twitter.com/RepAshleyHinson,IA,R,RepAshleyHinson
+282,house,"Horsford, Steven",https://twitter.com/RepHorsford,NV,D,RepHorsford
+283,house,"Houchin, Erin",https://twitter.com/RepHouchin,IN,R,RepHouchin
+284,house,"Houlahan, Chrissy",https://twitter.com/RepHoulahan,PA,D,RepHoulahan
+285,house,"Hoyer, Steny",https://twitter.com/RepStenyHoyer,MD,D,RepStenyHoyer
+286,house,"Hoyle, Val",https://twitter.com/RepValHoyle,OR,D,RepValHoyle
+287,house,"Hudson, Richard",https://twitter.com/RepRichHudson,NC,R,RepRichHudson
+288,house,"Huffman, Jared",https://twitter.com/RepHuffman,CA,D,RepHuffman
+289,house,"Huizenga, Bill",https://twitter.com/RepHuizenga,MI,R,RepHuizenga
+290,house,"Hunt, Wesley",https://twitter.com/RepWesleyHunt,TX,R,RepWesleyHunt
+291,house,"Issa, Darrell",https://twitter.com/repdarrellissa,CA,R,repdarrellissa
+292,house,"Ivey, Glenn",https://twitter.com/RepGlennIvey,MD,D,RepGlennIvey
+293,house,"Jackson, Jeff",https://twitter.com/RepJeffJackson,NC,D,RepJeffJackson
+294,house,"Jackson, Jonathan",https://twitter.com/rep_jackson,IL,D,rep_jackson
+295,house,"Jackson, Ronny",https://twitter.com/RepRonnyJackson,TX,R,RepRonnyJackson
+296,house,"Jackson Lee, Sheila",https://twitter.com/JacksonLeeTX18,TX,D,JacksonLeeTX18
+297,house,"Jacobs, Sara",https://twitter.com/RepSaraJacobs,CA,D,RepSaraJacobs
+298,house,"James, John",https://twitter.com/RepJames,MI,R,RepJames
+299,house,"Jayapal, Pramila",https://twitter.com/RepJayapal,WA,D,RepJayapal
+300,house,"Jeffries, Hakeem",https://twitter.com/RepJeffries,NY,D,RepJeffries
+301,house,"Johnson, Bill",https://twitter.com/RepBillJohnson,OH,R,RepBillJohnson
+302,house,"Johnson, Dusty",https://twitter.com/RepDustyJohnson,SD,R,RepDustyJohnson
+303,house,"Johnson, Henry C. ""Hank"" Jr.",https://twitter.com/RepHankJohnson,GA,D,RepHankJohnson
+304,house,"Johnson, Mike",https://twitter.com/RepMikeJohnson,LA,R,RepMikeJohnson
+305,house,"Jordan, Jim",https://twitter.com/Jim_Jordan,OH,R,Jim_Jordan
+306,house,"Joyce, David",https://twitter.com/RepDaveJoyce,OH,R,RepDaveJoyce
+307,house,"Joyce, John",https://twitter.com/RepJohnJoyce,PA,R,RepJohnJoyce
+308,house,"Kamlager-Dove, Sydney",https://twitter.com/RepKamlagerDove,CA,D,RepKamlagerDove
+309,house,"Kaptur, Marcy",https://twitter.com/RepMarcyKaptur,OH,D,RepMarcyKaptur
+310,house,"Kean, Thomas",https://twitter.com/congressmankean,NJ,R,congressmankean
+311,house,"Keating, William",https://twitter.com/USRepKeating,MA,D,USRepKeating
+312,house,"Kelly, Mike",https://twitter.com/MikeKellyPA,PA,R,MikeKellyPA
+313,house,"Kelly, Robin",https://twitter.com/RepRobinKelly,IL,D,RepRobinKelly
+314,house,"Kelly, Trent",https://twitter.com/RepTrentKelly,MS,R,RepTrentKelly
+315,house,"Khanna, Ro",https://twitter.com/RepRoKhanna,CA,D,RepRoKhanna
+316,house,"Kiggans, Jennifer",https://twitter.com/RepJenKiggans,VA,R,RepJenKiggans
+317,house,"Kildee, Dan",https://twitter.com/RepDanKildee,MI,D,RepDanKildee
+318,house,"Kiley, Kevin",https://twitter.com/RepKiley,CA,R,RepKiley
+319,house,"Kilmer, Derek",https://twitter.com/RepDerekKilmer,WA,D,RepDerekKilmer
+320,house,"Kim, Andy",https://twitter.com/RepAndyKimNJ,NJ,D,RepAndyKimNJ
+321,house,"Kim, Young",https://twitter.com/RepYoungKim,CA,R,RepYoungKim
+322,house,"Krishnamoorthi, Raja",https://twitter.com/CongressmanRaja,IL,D,CongressmanRaja
+323,house,"Kuster, Ann",https://twitter.com/RepAnnieKuster,NH,D,RepAnnieKuster
+324,house,"Kustoff, David",https://twitter.com/RepDavidKustoff,TN,R,RepDavidKustoff
+325,house,"LaHood, Darin",https://twitter.com/RepLaHood,IL,R,RepLaHood
+326,house,"LaLota, Nick",https://twitter.com/replalota,NY,R,replalota
+327,house,"LaMalfa, Doug",https://twitter.com/RepLaMalfa,CA,R,RepLaMalfa
+328,house,"Lamborn, Doug",https://twitter.com/RepDLamborn,CO,R,RepDLamborn
+329,house,"Landsman, Greg",https://twitter.com/repgreglandsman,OH,D,repgreglandsman
+330,house,"Langworthy, Nicholas",https://twitter.com/RepLangworthy,NY,R,RepLangworthy
+331,house,"Larsen, Rick",https://twitter.com/RepRickLarsen,WA,D,RepRickLarsen
+332,house,"Larson, John ",https://twitter.com/RepJohnLarson,CT,D,RepJohnLarson
+333,house,"Latta, Robert ",https://twitter.com/boblatta,OH,R,boblatta
+334,house,"LaTurner, Jake",https://twitter.com/RepLaTurner,KS,R,RepLaTurner
+335,house,"Lawler, Michael",https://twitter.com/RepMikeLawler,NY,R,RepMikeLawler
+336,house,"Lee, Barbara",https://twitter.com/RepBarbaraLee,CA,D,RepBarbaraLee
+337,house,"Lee, Laurel",https://twitter.com/RepLaurelLee,FL,R,RepLaurelLee
+338,house,"Lee, Summer",https://twitter.com/RepSummerLee,PA,D,RepSummerLee
+339,house,"Lee, Susie",https://twitter.com/RepSusieLee,NV,D,RepSusieLee
+340,house,"Leger Fernandez, Teresa",https://twitter.com/RepTeresaLF,NM,D,RepTeresaLF
+341,house,"Lesko, Debbie",https://twitter.com/RepDLesko,AZ,R,RepDLesko
+342,house,"Letlow, Julia",https://twitter.com/RepJuliaLetlow,LA,R,RepJuliaLetlow
+343,house,"Levin, Mike",https://twitter.com/RepMikeLevin,CA,D,RepMikeLevin
+344,house,"Lieu, Ted",https://twitter.com/RepTedLieu,CA,D,RepTedLieu
+345,house,"Lofgren, Zoe",https://twitter.com/RepZoeLofgren,CA,D,RepZoeLofgren
+346,house,"Loudermilk, Barry",https://twitter.com/RepLoudermilk,GA,R,RepLoudermilk
+347,house,"Lucas, Frank",https://twitter.com/RepFrankLucas,OK,R,RepFrankLucas
+348,house,"Luetkemeyer, Blaine",https://twitter.com/RepBlaine,MO,R,RepBlaine
+349,house,"Luna, Anna Paulina",https://twitter.com/RepLuna,FL,R,RepLuna
+350,house,"Luttrell, Morgan",https://twitter.com/repluttrell,TX,R,repluttrell
+351,house,"Lynch, Stephen ",https://twitter.com/RepStephenLynch,MA,D,RepStephenLynch
+352,house,"Mace, Nancy",https://twitter.com/RepNancyMace,SC,R,RepNancyMace
+353,house,"Magaziner, Seth",https://twitter.com/Rep_Magaziner,RI,D,Rep_Magaziner
+354,house,"Malliotakis, Nicole",https://twitter.com/RepMalliotakis,NY,R,RepMalliotakis
+355,house,"Mann, Tracey",https://twitter.com/RepMann,KS,R,RepMann
+356,house,"Manning, Kathy ",https://twitter.com/RepKManning,NC,D,RepKManning
+357,house,"Massie, Thomas",https://twitter.com/RepThomasMassie,KY,R,RepThomasMassie
+358,house,"Mast, Brian",https://twitter.com/RepBrianMast,FL,R,RepBrianMast
+359,house,"Matsui, Doris ",https://twitter.com/DorisMatsui,CA,D,DorisMatsui
+360,house,"McBath, Lucy",https://twitter.com/RepLucyMcBath,GA,D,RepLucyMcBath
+361,house,"McCarthy, Kevin",https://twitter.com/SpeakerMcCarthy,CA,R,SpeakerMcCarthy
+362,house,"McCaul, Michael ",https://twitter.com/RepMcCaul,TX,R,RepMcCaul
+363,house,"McClain, Lisa C.",https://twitter.com/RepLisaMcClain,MI,R,RepLisaMcClain
+364,house,"McClintock, Tom",https://twitter.com/RepMcClintock,CA,R,RepMcClintock
+365,house,"McCollum, Betty",https://twitter.com/BettyMcCollum04,MN,D,BettyMcCollum04
+366,house,"McCormick, Richard",https://twitter.com/RepMcCormick,GA,R,RepMcCormick
+367,house,"McGarvey, Morgan",https://twitter.com/RepMcGarvey,KY,D,RepMcGarvey
+368,house,"McGovern, James",https://twitter.com/RepMcGovern,MA,D,RepMcGovern
+369,house,"McHenry, Patrick ",https://twitter.com/PatrickMcHenry,NC,R,PatrickMcHenry
+370,house,"Meeks, Gregory ",https://twitter.com/RepGregoryMeeks,NY,D,RepGregoryMeeks
+371,house,"Menendez, Robert",https://twitter.com/RepMenendez,NJ,D,RepMenendez
+372,house,"Meng, Grace",https://twitter.com/RepGraceMeng,NY,D,RepGraceMeng
+373,house,"Meuser, Daniel",https://twitter.com/RepMeuser,PA,R,RepMeuser
+374,house,"Mfume, Kweisi",https://twitter.com/RepKweisiMfume,MD,D,RepKweisiMfume
+375,house,"Miller, Carol",https://twitter.com/RepCarolMiller,WV,R,RepCarolMiller
+376,house,"Miller, Mary ",https://twitter.com/RepMaryMiller,IL,R,RepMaryMiller
+377,house,"Miller, Max",https://twitter.com/RepMaxMiller,OH,R,RepMaxMiller
+378,house,"Miller-Meeks, Mariannette",https://twitter.com/RepMMM,IA,R,RepMMM
+379,house,"Mills, Cory",https://twitter.com/repmillspress,FL,R,repmillspress
+380,house,"Molinaro, Marcus",https://twitter.com/RepMolinaroNY19,NY,R,RepMolinaroNY19
+381,house,"Moolenaar, John",https://twitter.com/RepMoolenaar,MI,R,RepMoolenaar
+382,house,"Mooney, Alex",https://twitter.com/RepAlexMooney,WV,R,RepAlexMooney
+383,house,"Moore, Barry",https://twitter.com/RepBarryMoore,AL,R,RepBarryMoore
+384,house,"Moore, Blake ",https://twitter.com/RepBlakeMoore,UT,R,RepBlakeMoore
+385,house,"Moore, Gwen",https://twitter.com/RepGwenMoore,WI,D,RepGwenMoore
+386,house,"Moran, Nathaniel",https://twitter.com/RepNateMoran,TX,R,RepNateMoran
+387,house,"Morelle, Joe",https://twitter.com/RepJoeMorelle,NY,D,RepJoeMorelle
+388,house,"Moskowitz, Jared",https://twitter.com/RepMoskowitz,FL,D,RepMoskowitz
+389,house,"Moulton, Seth",https://twitter.com/teammoulton,MA,D,teammoulton
+390,house,"Moylan, James",https://twitter.com/JMoylanforGuam,GUAM,R,JMoylanforGuam
+391,house,"Mrvan, Frank ",https://twitter.com/RepMrvan,IN,D,RepMrvan
+392,house,"Mullin, Kevin",https://twitter.com/RepKevinMullin,CA,D,RepKevinMullin
+393,house,"Murphy, Gregory ",https://twitter.com/RepGregMurphy,NC,R,RepGregMurphy
+394,house,"Nadler, Jerrold",https://twitter.com/RepJerryNadler,NY,D,RepJerryNadler
+395,house,"Napolitano, Grace",https://twitter.com/gracenapolitano,CA,D,gracenapolitano
+396,house,"Neal, Richard ",https://twitter.com/RepRichardNeal,MA,D,RepRichardNeal
+397,house,"Neguse, Joe",https://twitter.com/RepJoeNeguse,CO,D,RepJoeNeguse
+398,house,"Nehls, Troy",https://twitter.com/RepTroyNehls,TX,R,RepTroyNehls
+399,house,"Newhouse, Dan",https://twitter.com/RepNewhouse,WA,R,RepNewhouse
+400,house,"Nickel, Wiley",https://twitter.com/repwileynickel,NC,D,repwileynickel
+401,house,"Norcross, Donald",https://twitter.com/DonaldNorcross,NJ,D,DonaldNorcross
+402,house,"Norman, Ralph",https://twitter.com/RepRalphNorman,SC,R,RepRalphNorman
+403,house,"Norton, Eleanor Holmes",https://twitter.com/EleanorNorton,DC,D,EleanorNorton
+404,house,"Nunn, Zachary",https://twitter.com/zachnunn,IA,R,zachnunn
+405,house,"Obernolte, Jay",https://twitter.com/JayObernolte,CA,R,JayObernolte
+406,house,"Ocasio-Cortez, Alexandria",https://twitter.com/RepAOC,NY,D,RepAOC
+407,house,"Ogles, Andrew",https://twitter.com/repogles,TN,R,repogles
+408,house,"Omar, Ilhan",https://twitter.com/Ilhan,MN,D,Ilhan
+409,house,"Owens, Burgess",https://twitter.com/RepBurgessOwens,UT,R,RepBurgessOwens
+410,house,"Pallone Jr., Frank",https://twitter.com/FrankPallone,NJ,D,FrankPallone
+411,house,"Palmer, Gary",https://twitter.com/USRepGaryPalmer,AL,R,USRepGaryPalmer
+412,house,"Panetta, Jimmy",https://twitter.com/RepJimmyPanetta,CA,D,RepJimmyPanetta
+413,house,"Pappas, Chris",https://twitter.com/RepChrisPappas,NH,D,RepChrisPappas
+414,house,"Pascrell Jr., Bill",https://twitter.com/BillPascrell,NJ,D,BillPascrell
+415,house,"Payne Jr., Donald",https://twitter.com/RepDonaldPayne,NJ,D,RepDonaldPayne
+416,house,"Pelosi, Nancy",https://twitter.com/SpeakerPelosi,CA,D,SpeakerPelosi
+417,house,"Peltola, Mary",https://twitter.com/Rep_Peltola,AK,D,Rep_Peltola
+418,house,"Pence, Greg",https://twitter.com/RepGregPence,IN,R,RepGregPence
+419,house,"Perez, Marie",https://twitter.com/RepMGP,WA,D,RepMGP
+420,house,"Perry, Scott",https://twitter.com/RepScottPerry,PA,R,RepScottPerry
+421,house,"Peters, Scott",https://twitter.com/RepScottPeters,CA,D,RepScottPeters
+422,house,"Pettersen, Brittany",https://twitter.com/RepPettersen,CO,D,RepPettersen
+423,house,"Pfluger, August",https://twitter.com/RepPfluger,TX,R,RepPfluger
+424,house,"Phillips, Dean",https://twitter.com/RepDeanPhillips,MN,D,RepDeanPhillips
+425,house,"Pingree, Chellie",https://twitter.com/chelliepingree,ME,D,chelliepingree
+426,house,"Plaskett, Stacey",https://twitter.com/StaceyPlaskett,VI,D,StaceyPlaskett
+427,house,"Pocan, Mark",https://twitter.com/repmarkpocan,WI,D,repmarkpocan
+428,house,"Porter, Katie",https://twitter.com/RepKatiePorter,CA,D,RepKatiePorter
+429,house,"Posey, Bill",https://twitter.com/congbillposey,FL,R,congbillposey
+430,house,"Pressley, Ayanna",https://twitter.com/RepPressley,MA,D,RepPressley
+431,house,"Quigley, Mike",https://twitter.com/RepMikeQuigley,IL,D,RepMikeQuigley
+432,house,"Radewagen, Amata",https://twitter.com/RepAmata,AS,R,RepAmata
+433,house,"Ramirez, Delia",https://twitter.com/repdeliaramirez,IL,D,repdeliaramirez
+434,house,"Raskin, Jamie",https://twitter.com/RepRaskin,MD,D,RepRaskin
+435,house,"Reschenthaler, Guy",https://twitter.com/GReschenthaler,PA,R,GReschenthaler
+436,house,"Rodgers, Cathy McMorris",https://twitter.com/cathymcmorris,WA,R,cathymcmorris
+437,house,"Rogers, Hal",https://twitter.com/RepHalRogers,KY,R,RepHalRogers
+438,house,"Rogers, Mike",https://twitter.com/RepMikeRogersAL,AL,R,RepMikeRogersAL
+439,house,"Rose, John ",https://twitter.com/RepJohnRose,TN,R,RepJohnRose
+440,house,"Rosendale, Matthew ",https://twitter.com/RepRosendale,MT,R,RepRosendale
+441,house,"Ross, Deborah",https://twitter.com/RepDeborahRoss,NC,D,RepDeborahRoss
+442,house,"Rouzer, David",https://twitter.com/RepDavidRouzer,NC,R,RepDavidRouzer
+443,house,"Roy, Chip",https://twitter.com/RepChipRoy,TX,R,RepChipRoy
+444,house,"Ruiz, Raul",https://twitter.com/RepRaulRuizMD,CA,D,RepRaulRuizMD
+445,house,"Ruppersberger, C. A. Dutch",https://twitter.com/Call_Me_Dutch,MD,D,Call_Me_Dutch
+446,house,"Rutherford, John",https://twitter.com/RepRutherfordFL,FL,R,RepRutherfordFL
+447,house,"Ryan, Pat",https://twitter.com/RepPatRyanNY,NY,D,RepPatRyanNY
+448,house,"Sablan, Kilili",https://twitter.com/Kilili_Sablan,MARIANA,D,Kilili_Sablan
+449,house,"Salazar, Maria ",https://twitter.com/RepMariaSalazar,FL,R,RepMariaSalazar
+450,house,"Salinas, Andrea",https://twitter.com/repsalinas,OR,D,repsalinas
+451,house,"Sánchez, Linda",https://twitter.com/RepLindaSanchez,CA,D,RepLindaSanchez
+452,house,"Santos, George",https://twitter.com/RepSantosNY03,NY,R,RepSantosNY03
+453,house,"Sarbanes, John ",https://twitter.com/RepSarbanes,MD,D,RepSarbanes
+454,house,"Scalise, Steve",https://twitter.com/SteveScalise,LA,R,SteveScalise
+455,house,"Scanlon, Mary ",https://twitter.com/RepMGS,PA,D,RepMGS
+456,house,"Schakowsky, Jan",https://twitter.com/janschakowsky,IL,D,janschakowsky
+457,house,"Schiff, Adam",https://twitter.com/RepAdamSchiff,CA,D,RepAdamSchiff
+458,house,"Schneider, Bradley",https://twitter.com/RepSchneider,IL,D,RepSchneider
+459,house,"Scholten, Hillary",https://twitter.com/RepScholten,MI,D,RepScholten
+460,house,"Schrier, Kim",https://twitter.com/RepKimSchrier,WA,D,RepKimSchrier
+461,house,"Schweikert, David",https://twitter.com/RepDavid,AZ,R,RepDavid
+462,house,"Scott, Austin",https://twitter.com/AustinScottGA08,GA,R,AustinScottGA08
+463,house,"Scott, David",https://twitter.com/repdavidscott,GA,D,repdavidscott
+464,house,"Scott, Bobby",https://twitter.com/BobbyScott,VA,D,BobbyScott
+465,house,"Self, Keith",https://twitter.com/repkeithself,TX,R,repkeithself
+466,house,"Sessions, Pete",https://twitter.com/PeteSessions,TX,R,PeteSessions
+467,house,"Sewell, Terri A.",https://twitter.com/RepTerriSewell,AL,D,RepTerriSewell
+468,house,"Sherman, Brad",https://twitter.com/BradSherman,CA,D,BradSherman
+469,house,"Sherrill, Mikie",https://twitter.com/RepSherrill,NJ,D,RepSherrill
+470,house,"Simpson, Mike",https://twitter.com/CongMikeSimpson,ID,R,CongMikeSimpson
+471,house,"Slotkin, Elissa",https://twitter.com/RepSlotkin,MI,D,RepSlotkin
+472,house,"Smith, Adam",https://twitter.com/RepAdamSmith,WA,D,RepAdamSmith
+473,house,"Smith, Adrian",https://twitter.com/RepAdrianSmith,NE,R,RepAdrianSmith
+474,house,"Smith, Chris",,NJ,R,nan
+475,house,"Smith, Jason",https://twitter.com/RepJasonSmith,MO,R,RepJasonSmith
+476,house,"Smucker, Lloyd",https://twitter.com/RepSmucker,PA,R,RepSmucker
+477,house,"Sorensen, Eric",https://twitter.com/RepEricSorensen,IL,D,RepEricSorensen
+478,house,"Soto, Darren",https://twitter.com/RepDarrenSoto,FL,D,RepDarrenSoto
+479,house,"Spanberger, Abigail",https://twitter.com/RepSpanberger,VA,D,RepSpanberger
+480,house,"Spartz, Victoria",https://twitter.com/RepSpartz,IN,R,RepSpartz
+481,house,"Stansbury, Melanie ",https://twitter.com/Rep_Stansbury,NM,D,Rep_Stansbury
+482,house,"Stanton, Greg",https://twitter.com/RepGregStanton,AZ,D,RepGregStanton
+483,house,"Stauber, Pete",https://twitter.com/RepPeteStauber,MN,R,RepPeteStauber
+484,house,"Steel, Michelle",https://twitter.com/RepSteel,CA,R,RepSteel
+485,house,"Stefanik, Elise",https://twitter.com/RepStefanik,NY,R,RepStefanik
+486,house,"Steil, Bryan",https://twitter.com/RepBryanSteil,WI,R,RepBryanSteil
+487,house,"Steube, Greg",https://twitter.com/RepGregSteube,FL,R,RepGregSteube
+488,house,"Stevens, Haley",https://twitter.com/RepHaleyStevens,MI,D,RepHaleyStevens
+489,house,"Stewart, Chris",https://twitter.com/RepChrisStewart,UT,R,RepChrisStewart
+490,house,"Strickland, Marilyn",https://twitter.com/RepStricklandWA,WA,D,RepStricklandWA
+491,house,"Strong, Dale",https://twitter.com/RepDaleStrong,AL,R,RepDaleStrong
+492,house,"Swalwell, Eric",https://twitter.com/RepSwalwell,CA,D,RepSwalwell
+493,house,"Sykes, Emilia",https://twitter.com/RepEmiliaSykes,OH,D,RepEmiliaSykes
+494,house,"Takano, Mark",https://twitter.com/RepMarkTakano,CA,D,RepMarkTakano
+495,house,"Tenney, Claudia",https://twitter.com/RepTenney,NY,R,RepTenney
+496,house,"Thanedar, Shri",https://twitter.com/repshrithanedar,MI,D,repshrithanedar
+497,house,"Thompson, Bennie ",https://twitter.com/BennieGThompson,MS,D,BennieGThompson
+498,house,"Thompson, Glenn",https://twitter.com/CongressmanGT,PA,R,CongressmanGT
+499,house,"Thompson, Mike",https://twitter.com/RepThompson,CA,D,RepThompson
+500,house,"Tiffany, Thomas ",https://twitter.com/RepTiffany,WI,R,RepTiffany
+501,house,"Timmons, William",https://twitter.com/RepTimmons,SC,R,RepTimmons
+502,house,"Titus, Dina",https://twitter.com/repdinatitus,NV,D,repdinatitus
+503,house,"Tlaib, Rashida",https://twitter.com/RepRashida,MI,D,RepRashida
+504,house,"Tokuda, Jill",https://twitter.com/RepJillTokuda,HI,D,RepJillTokuda
+505,house,"Tonko, Paul ",https://twitter.com/RepPaulTonko,NY,D,RepPaulTonko
+506,house,"Torres, Norma",https://twitter.com/NormaJTorres,CA,D,NormaJTorres
+507,house,"Torres, Ritchie",https://twitter.com/RepRitchie,NY,D,RepRitchie
+508,house,"Trahan, Lori",https://twitter.com/RepLoriTrahan,MA,D,RepLoriTrahan
+509,house,"Trone, David",https://twitter.com/RepDavidTrone,MD,D,RepDavidTrone
+510,house,"Turner, Mike",https://twitter.com/RepMikeTurner,OH,R,RepMikeTurner
+511,house,"Underwood, Lauren",https://twitter.com/RepUnderwood,IL,D,RepUnderwood
+512,house,"Valadao, David ",https://twitter.com/RepDavidValadao,CA,R,RepDavidValadao
+513,house,"Van Drew, Jefferson",https://twitter.com/Congressman_JVD,NJ,R,Congressman_JVD
+514,house,"Van Duyne, Beth",https://twitter.com/RepBethVanDuyne,TX,R,RepBethVanDuyne
+515,house,"Van Orden, Derrick",https://twitter.com/repvanorden,WI,R,repvanorden
+516,house,"Vargas, Juan",https://twitter.com/RepJuanVargas,CA,D,RepJuanVargas
+517,house,"Vasquez, Gabe",https://twitter.com/RepGabeVasquez,NM,D,RepGabeVasquez
+518,house,"Veasey, Marc",https://twitter.com/RepVeasey,TX,D,RepVeasey
+519,house,"Velázquez, Nydia ",https://twitter.com/NydiaVelazquez,NY,D,NydiaVelazquez
+520,house,"Wagner, Ann",https://twitter.com/RepAnnWagner,MO,R,RepAnnWagner
+521,house,"Walberg, Tim",https://twitter.com/RepWalberg,MI,R,RepWalberg
+522,house,"Waltz, Michael",https://twitter.com/RepWaltzPress,FL,R,RepWaltzPress
+523,house,"Wasserman Schultz, Debbie",https://twitter.com/RepDWStweets,FL,D,RepDWStweets
+524,house,"Waters, Maxine",https://twitter.com/RepMaxineWaters,CA,D,RepMaxineWaters
+525,house,"Watson Coleman, Bonnie",https://twitter.com/RepBonnie,NJ,D,RepBonnie
+526,house,"Weber, Randy",https://twitter.com/TXRandy14,TX,R,TXRandy14
+527,house,"Webster, Daniel",https://twitter.com/RepWebster,FL,R,RepWebster
+528,house,"Wenstrup, Brad",https://twitter.com/RepBradWenstrup,OH,R,RepBradWenstrup
+529,house,"Westerman, Bruce",https://twitter.com/RepWesterman,AR,R,RepWesterman
+530,house,"Wexton, Jennifer",https://twitter.com/RepWexton,VA,D,RepWexton
+531,house,"Wild, Susan",https://twitter.com/RepSusanWild,PA,D,RepSusanWild
+532,house,"Williams, Brandon",https://twitter.com/RepWilliams,NY,R,RepWilliams
+533,house,"Williams, Nikema",https://twitter.com/RepNikema,GA,D,RepNikema
+534,house,"Williams, Roger",https://twitter.com/RepRWilliams,TX,R,RepRWilliams
+535,house,"Wilson, Frederica",https://twitter.com/RepWilson,FL,D,RepWilson
+536,house,"Wilson, Joe",https://twitter.com/RepJoeWilson,SC,R,RepJoeWilson
+537,house,"Wittman, Robert ",https://twitter.com/RobWittman,VA,R,RobWittman
+538,house,"Womack, Steve",https://twitter.com/rep_stevewomack,AR,R,rep_stevewomack
+539,house,"Yakym, Rudy",https://twitter.com/RepRudyYakym,IN,R,RepRudyYakym
+540,house,"Zinke, Ryan",https://twitter.com/RepRyanZinke,MT,R,RepRyanZinke
