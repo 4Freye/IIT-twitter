@@ -6,4 +6,4 @@ https://ucsd.libguides.com/congress_twitter
 
 After that, we use twarc to convert account names to user IDs.
 
-Then we use twarc to get the timelines of all congressmens' user IDs for 2022
+Then we use twarc to get the timelines of all congressmembers' user IDs for July-September of 2022.
