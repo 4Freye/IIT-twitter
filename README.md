@@ -1,4 +1,5 @@
 # IIT-twitter
+## Introduction
 
 ## Preprocessing
 We obtain a list of congressional Twitter accounts from UC San Diego at [this webpage](https://ucsd.libguides.com/congress_twitter). We use the 117th Congress in order to get congressional tweets from 2022, as the 117th Congress was active from 2021-2023. This list is located at [data/congress_twitter_117th_combined.csv](https://github.com/4Freye/IIT-twitter/blob/main/data/congress_twitter_117th_combined.csv).
