@@ -11,7 +11,7 @@ The [descriptive analysis notebook](https://github.com/4Freye/IIT-twitter/blob/m
 - The total volume of congressmembers' tweets ranges from about 6,000-10,000 times a week.
 - The majority of congressmembers tweet between 10 to 20 times a week, 1 to 3 times a day, and .05 to .15 times an hour.
 - Congressmembers tweet up to 4 times as much during the week than on the weekends.
-- They rarely tweet at night (in EST), and tweet a lot more during the day
+- They rarely tweet at night, and tweet a lot more during the day
 
 We also provide heatmap visualizations of a random sample of congressmembers- aggregating on the hourly level and daily level.
 
